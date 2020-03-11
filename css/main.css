@@ -1,0 +1,40 @@
+.background {
+  color: #660;
+  position: relative;
+}
+
+.markbot {
+  display: none;
+}
+
+.border {
+  border-top: 3px solid white;
+}
+
+body {
+  background-color: #222;
+  text-align: center;
+  color: white;
+  position: relative;
+  height: 100%;
+}
+
+.first {
+  font-family: Oxygen, sans-serif;
+  color: white;
+}
+
+.second {
+  color: #562787;
+  font-family: "Indie Flower", cursive;
+}
+
+.one {
+  margin-top: 150px;
+  position: absolute;
+  top: 5%;
+}
+
+.two {
+  display: none;
+}
